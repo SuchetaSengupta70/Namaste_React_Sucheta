@@ -1,0 +1,33 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "Namaste React By Sucheta Sengupta",
+  
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SuchetaSengupta70/Namaste_React_Sucheta.git"
+  },
+  "keywords": [
+  ],
+  "author": "Sucheta Sengupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuchetaSengupta70/Namaste_React_Sucheta/issues"
+  },
+  "homepage": "https://github.com/SuchetaSengupta70/Namaste_React_Sucheta#readme",
+  "devDependencies": {
+    "parcel": "^2.15.1"
+  },
+  "dependencies": { 
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": {
+    "last 2 versions"
+  }
+}
