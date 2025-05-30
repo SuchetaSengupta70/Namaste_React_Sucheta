@@ -1,3 +1,19 @@
 .heading {
     color:red;
 }
+.sizeIcon {
+    font-size: 36px;
+}
+.parentSection {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #3778b1;
+    padding: 3vh 2vw;
+}
+.searchBar {
+    width: 40vw;
+    height: 10vh;
+    border-radius: 20px;
+    margin: auto;
+}
